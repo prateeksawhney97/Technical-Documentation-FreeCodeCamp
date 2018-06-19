@@ -1,0 +1,50 @@
+.left-pane {
+  width: 25%;
+}
+
+.main-page {
+  display: flex;
+}
+
+#left-pane-heading {
+  font-size: 35px;
+  text-align: center;
+}
+
+#left-links {
+  overflow: scroll;
+  height: 500px;
+}
+
+#navbar {
+  position: fixed;
+}
+
+.nav-link {
+  margin-left: 8%;
+  font-size: 18px;
+  color: #000000;
+}
+
+.code-box {
+  background-color: #F0F0F0;
+  font-size: 16px;
+}
+
+.code-lines {
+  margin-left: 28px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.right-pane {
+  width: 75%;
+}
+
+#main-doc {
+  position: relative;
+}
+
+.main-section {
+  font-size: 18px;
+}
